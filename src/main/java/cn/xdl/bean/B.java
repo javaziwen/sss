@@ -5,7 +5,7 @@ public class B {
 	public static void main(String[] args) {
 		System.out.println("bbbbbbbbbbbb");
 
-		System.out.println("asdasdasdasdasdsadasdasdasdasda");
+		System.out.println("ahahhaha");
 
 	}
 
